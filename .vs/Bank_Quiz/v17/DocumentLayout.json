@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\infrastructure\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\infrastructure\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\contracts\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\contracts\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|c:\\users\\arya\\source\\repos\\bank_quiz\\bank_quiz\\contracts\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FC3C0A-A463-4EAA-A89A-B1C020013FA6}|Bank_Quiz\\Bank_Quiz.csproj|solutionrelative:bank_quiz\\contracts\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\InfraStructure\\SeedData.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\InfraStructure\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\InfraStructure\\SeedData.cs",
+              "RelativeToolTip": "Bank_Quiz\\InfraStructure\\SeedData.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwG8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:09:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Services\\CardService.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Services\\CardService.cs",
+              "RelativeToolTip": "Bank_Quiz\\Services\\CardService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA2wHwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:20:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Contracts\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Contracts\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Contracts\\ITransactionRepository.cs",
+              "RelativeToolTip": "Bank_Quiz\\Contracts\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:06:47.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "Bank_Quiz\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:46:49.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\InfraStructure\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\InfraStructure\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\InfraStructure\\AppDBContext.cs",
+              "RelativeToolTip": "Bank_Quiz\\InfraStructure\\AppDBContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:39:38.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Repositories\\CardRepository.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Repositories\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Repositories\\CardRepository.cs",
+              "RelativeToolTip": "Bank_Quiz\\Repositories\\CardRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:37:22.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Program.cs",
+              "RelativeToolTip": "Bank_Quiz\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:16:26.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Contracts\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Contracts\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Contracts\\ICardRepository.cs",
+              "RelativeToolTip": "Bank_Quiz\\Contracts\\ICardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:32:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Entities\\Card.cs",
+              "RelativeToolTip": "Bank_Quiz\\Entities\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:18:13.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Bank_Quiz\\Services\\TransactionService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:33:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Bank_Quiz\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\Bank_Quiz\\Bank_Quiz\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Bank_Quiz\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:21:20.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
